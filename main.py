@@ -47,4 +47,4 @@ def sort_patients(sort_by: str = Query(..., description ='Sort on the basis of h
 
 
 
-# querry paramters are optional key value pairs sent in the url after ? symbol use to pass additional information to the server
+# query parameters are optional key value pairs sent in the url after ? symbol use to pass additional information to the server
